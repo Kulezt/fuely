@@ -431,4 +431,13 @@
         display: block;
         text-align: center;
      }
+
  }
+@media screen and (max-width: 526px){
+    .details{
+        display: block;
+    }
+    .approved{
+        width: 80px;
+    }
+  }
