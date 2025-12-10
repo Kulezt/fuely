@@ -325,8 +325,8 @@
 
      header,
      main {
-         padding-left: 18%;
-         padding-right: 18%;
+         padding-left: 10%;
+         padding-right: 10%;
      }
 
      main {
@@ -441,3 +441,4 @@
         width: 80px;
     }
   }
+
